@@ -1,0 +1,9 @@
+# README
+This project is an analysis of data collected in 2015 asking participants to answer specific questions about their previous work day. 
+The data was colelcted in preperation for a bigger project examining age differences in work behaviour of employees, testing hypotheses derived from Socioemotional Selectivity Theory.
+In this analysis, we are testing the primary hypothesis that age is associated with greater likelihood of employees' reporting that they helped someone at work. A secondary hypothesis is that age is associated with better emotional well-being at work (ratio of PA to NA) and that helping others can account, at least in part, for this association
+
+Some of the data had been previously analysed in SPSS, where weak positive correlations were found between age and the number of times employees reported helping someone else (r=0.19) and age and the frequency and intensity of positive emotions (r=0.18 and r=0.22 respectively).
+This analysis did not make use of the repeated measures nature of the dataset, and did not examine the relationship between age, helping someone and emotional well-being in one model.
+
+Use of the data and code in this project is not allowed without explicit consent from the author, and/or Professor Laura Carstensen.
